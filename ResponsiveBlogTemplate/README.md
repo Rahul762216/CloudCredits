@@ -53,7 +53,7 @@ bash
 Copy
 Edit
 # Clone the repository or download the folder
- (https://github.com/Rahul762216/responsive-blog-app.git)
+ (https://github.com/Rahul762216/CloudCredits.git))
 
 # Open the project folder
 cd responsive-blog-app
