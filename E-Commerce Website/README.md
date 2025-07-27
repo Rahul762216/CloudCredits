@@ -34,9 +34,9 @@ To create a **responsive, interactive shopping interface** using **vanilla JavaS
 
 ---
 
+
 ## 🧪 Sample Usage
 
-```bash
 # Open in browser
 $ open index.html
 
@@ -73,4 +73,6 @@ On hover animations, fake cart buttons, and filters provide dynamic user experie
 
 📊 Responsiveness
 Media queries in CSS ensure compatibility across all screen sizes.
+
+
 
